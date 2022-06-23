@@ -1,0 +1,21 @@
+{
+  "name": "agence-la-panthere",
+  "version": "1.0.0",
+  "description": "Optimisez un site web existant",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/main.scss:./style.css",
+    "prefix": "postcss ./style.css --use autoprefixer -d ./css/prefixed/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GreenBeetleStore/Agence-La-Panthere.git"
+  },
+  "author": "XT.L'Escarabat Verd",
+  "license": "ISC",
+  "browserslist": "last 4 versions",
+  "bugs": {
+    "url": "https://github.com/GreenBeetleStore/Agence-La-Panthere/issues"
+  },
+  "homepage": "https://github.com/GreenBeetleStore/Agence-La-Panthere#readme"
+}
