@@ -436,8 +436,7 @@ nav .caret {
 }
 
 .mg-md {
-    margin-top: 10px;
-    margin-bottom: 20px;
+    margin: 15px 0px 20px 0px;
 }
 
 .mg-lg {
@@ -477,6 +476,14 @@ button {
 
 .icon-md {
     font-size: 30px!important;
+}
+
+.black ,.icon-md {
+    color: #333333!important;
+}
+
+.row-no-gutters .icon-md {
+    color: #333333;
 }
 
 .icon-lg {
@@ -743,10 +750,16 @@ p {
 }
 
 h3 {
-    font-size: 15px;
+    font-size: 17px;
     text-transform: uppercase;
     font-weight: 700;
     color: #333333!important;
+}
+
+.text-center +p {
+    font-size: 16px;
+    font-weight: 500;
+    color: #000000;
 }
 
 h4 {
@@ -777,7 +790,7 @@ h4 {
     color: #000000 !important;
     font-size: 16px;
     font-weight: 500;
-    text-shadow: 1px 0 #575757;
+    text-shadow: 0.5px 0 #575757;
 }
 
 .portfolio-thumb {
@@ -828,7 +841,7 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #000000 !important;
+    color: #333333 !important;
 }
 
 .btn-atomic-tangerine:hover {
