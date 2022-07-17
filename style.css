@@ -706,12 +706,12 @@ p {
 
 .first-title {
     font-family: 'Work Sans', sans-serif;
-    font-size: 1.85em;
+    font-size: 2em;
     font-weight: 500;
     line-height: 1.1em;
     letter-spacing: -1px;
     word-spacing: -2px;
-    padding: 0 150px;
+    padding: 0 120px;
 }
 
 .citation-h2 {
