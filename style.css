@@ -704,14 +704,14 @@ p {
     margin: auto auto auto auto;
 }
 
-h2 {
+h3 {
     font-size: 15px;
     text-transform: uppercase;
     font-weight: 700;
     color: #333333!important;
 }
 
-h3 {
+h4 {
     font-size: 22px;
     line-height: 1.4em;
 }
@@ -813,8 +813,8 @@ h4 {
     background-image: url("img/dots-bg.png");
 }
 
-.bg-lines-h3-bg {
-    background-image: url("img/lines-h3-bg.png");
+.bg-lines-h4-bg {
+    background-image: url("img/lines-h4-bg.png");
 }
 
 .bg-banniere {
