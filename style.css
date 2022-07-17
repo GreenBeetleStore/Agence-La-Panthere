@@ -692,7 +692,7 @@ p {
 
 .cta-hero {
     margin-top: 22px;
-    color: navy !important;
+    color: #000000 !important;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
     font-size: 16px;
@@ -706,27 +706,27 @@ p {
 
 .first-title {
     font-family: 'Work Sans', sans-serif;
-    font-size: 2em;
+    font-size: 25px;
     font-weight: 500;
     line-height: 1.1em;
     letter-spacing: -1px;
     word-spacing: -2px;
-    padding: 0 120px;
+    padding: 0 150px;
 }
 
 .citation-h2 {
     font-family: 'Work Sans', sans-serif;
-    font-size: 1.5em;
+    font-size: 22px;
     font-weight: 500;
     font-style: italic;
     line-height: 1.1em;
     letter-spacing: -0.8px;
-    padding: 0 45px;
+    padding: 0 30px;
 }
 
 .citation-p {
     font-family: 'Work Sans', sans-serif;
-    font-size: 1.5em;
+    font-size: 22px;
     font-weight: 400;
     line-height: 1.1em;
     letter-spacing: -0.8px;
@@ -774,7 +774,10 @@ h4 {
 }
 
 .white {
-    color: navy !important;
+    color: #000000 !important;
+    font-size: 16px;
+    font-weight: 500;
+    text-shadow: 1px 0 #575757;
 }
 
 .portfolio-thumb {
@@ -816,9 +819,16 @@ h4 {
     color: #FFFFFF !important;
 }
 
+.tc-white h2 {
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 1.5em;
+}
+
+
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: navy !important;
+    color: #000000 !important;
 }
 
 .btn-atomic-tangerine:hover {
