@@ -475,7 +475,9 @@ button {
 }
 
 .icon-md {
-    font-size: 30px!important;
+    font-size: 48px!important;
+    padding: 0 15px;
+    outline: 1px solid red;
 }
 
 .black ,.icon-md {
