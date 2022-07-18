@@ -23,6 +23,7 @@ a:hover {
     top: 0;
     bottom: 0;
     width: 100%;
+    height: auto;
     z-index: 100000;
     background: #FFFFFF url("img/pageload-spinner.gif") no-repeat center center;
 }
@@ -302,6 +303,8 @@ a:hover {
 }
 
 .navbar-brand img {
+    width: 100%;
+    height: auto;
     max-height: 200px;
     margin: 0 5px 0 0;
     display: inline;
@@ -477,11 +480,14 @@ button {
 .icon-md {
     font-size: 48px!important;
     padding: 0 15px;
-    outline: 1px solid red;
 }
 
 .black ,.icon-md {
-    color: #333333!important;
+    color: #364577!important;
+}
+
+.black ,.icon-md:hover {
+    color: #FFFFFF!important;
 }
 
 .row-no-gutters .icon-md {
@@ -701,7 +707,7 @@ p {
 
 .cta-hero {
     margin-top: 22px;
-    color: #000000 !important;
+    color: #364577 !important;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
     font-size: 16px;
@@ -790,7 +796,7 @@ h4 {
 
 .white {
     color: #000000 !important;
-    font-size: 16px;
+    font-size: 20px;
     font-weight: 500;
     text-shadow: 0.5px 0 #575757;
 }
@@ -832,6 +838,8 @@ h4 {
 
 .tc-white {
     color: #FFFFFF !important;
+    position: relative;
+    z-index: 1;
 }
 
 .tc-white h2 {
@@ -843,7 +851,7 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #333333 !important;
+    color: #364577 !important;
 }
 
 .btn-atomic-tangerine:hover {
