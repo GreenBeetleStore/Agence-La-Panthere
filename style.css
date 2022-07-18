@@ -502,6 +502,16 @@ button {
     text-shadow: 0 1px 2px rgba(0, 0, 0, .3);
 }
 
+.contact-info p{
+    width: 100%;
+    height: auto;
+    display: flex;
+    text-align: center;
+    align-self: center;
+    padding: 40px 75px 40px 100px;
+    font-size: 12px;
+}
+
 .panel-sq,
 .panel-sq .panel-heading,
 .panel-sq .panel-footer {
