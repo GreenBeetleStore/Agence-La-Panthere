@@ -303,8 +303,8 @@ a:hover {
 }
 
 .navbar-brand img {
-    width: 100%;
-    height: auto;
+    width: 305px;
+    height: 80.31px;
     max-height: 200px;
     margin: 0 5px 0 0;
     display: inline;
@@ -713,6 +713,11 @@ p {
     margin: auto auto auto auto;
 }
 
+.image-resize-mode {
+    width: 100px;
+    height: 100px;
+}
+
 .h1 {
     font-size: 20px;
     font-family: "Open Sans";
@@ -816,8 +821,8 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
-    width: 100%;
-    height: auto;
+    width: 270px;
+    height: 270px;
 }
 
 .portfolio-row {
@@ -1049,7 +1054,6 @@ h4 {
     }
     .navbar-brand img {
         max-height: 40px;
-        width: auto;
     }
     .nav-invert .navbar-header {
         float: none;
