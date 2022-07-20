@@ -703,7 +703,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 12px;
 }
 
 .tight-width-whitespace {
@@ -864,12 +864,19 @@ h4 {
     z-index: 1;
 }
 
+.tc-white-2 {
+    color: #232F48 !important;
+    position: relative;
+    z-index: 1;
+    font-weight: 500;
+}
+
+
 .tc-white h2 {
     font-size: 22px;
     font-weight: 500;
     line-height: 1.5em;
 }
-
 
 .btn-atomic-tangerine {
     background: #F3976C;
