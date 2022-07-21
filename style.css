@@ -535,6 +535,11 @@ button {
     border-color: rgba(0, 0, 0, .1);
     box-shadow: none;
 }
+.col-sm-6 {
+    display: block;
+    justify-content: center;
+    margin: 0 25% 0 25%; 
+}
 
 .scrollToTop {
     width: 40px;
@@ -738,7 +743,7 @@ p {
 }
 
 .first-title {
-    font-family: 'Work Sans', sans-serif;
+    font-family: 'Work Sans'!important;
     font-size: 25px;
     font-weight: 500;
     line-height: 1.1em;
