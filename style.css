@@ -743,7 +743,7 @@ p {
 }
 
 .first-title {
-    font-family: 'Work Sans'!important;
+    font-family: 'Work Sans', sans-serif!important;
     font-size: 25px;
     font-weight: 500;
     line-height: 1.1em;
