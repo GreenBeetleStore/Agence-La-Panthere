@@ -257,12 +257,6 @@ a:hover {
         transform: translate(0, -50%);
         -webkit-transform: translateY(-50%);
     }
-    .col-sm-12 .second-title{
-        width: 725px!important;
-        font-size: 1.7em;
-        padding: 0 15%;
-        margin: 0;
-    }
 }
 
 .mg-md {
@@ -626,11 +620,33 @@ h4 {
         padding-left: 20px;
         padding-right: 20px;
     }
+    .col-sm-12 .second-title{
+        width: 960px!important;
+        font-size: 1.7em;
+        padding: 0 25%;
+        margin: 0 auto;
+    }
+}
+
+@media (min-width: 1025px) {
+    .col-sm-12 .second-title{
+        width: 960px!important;
+        font-size: 1.7em;
+        padding: 0 25%;
+        margin: 0 auto;
+    }
 }
 
 @media (max-width: 992px) and (min-width: 768px) {
     .navbar .nav {
         max-width: 80%
+    }
+    .col-sm-12 .second-title{
+        width: 725px!important;
+        font-size: 1.7em;
+        padding: 0 15%;
+        margin: 0 auto;
+        outline: 1px solid red;
     }
 }
 
