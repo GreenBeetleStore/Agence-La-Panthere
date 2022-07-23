@@ -646,7 +646,6 @@ h4 {
         font-size: 1.7em;
         padding: 0 15%;
         margin: 0 auto;
-        outline: 1px solid red;
     }
 }
 
@@ -728,8 +727,9 @@ h4 {
         box-shadow: none;
     }
     .navbar-brand img {
-        max-height: 40px;
+        max-height: 50px;
     }
+
     .bloc {
         padding-left: 0;
         padding-right: 0;
