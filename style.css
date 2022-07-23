@@ -238,7 +238,14 @@ a:hover {
 }
 
 .navbar-toggle .icon-bar {
-    background-color: rgba(0, 0, 0, .5);
+    background-color: rgba(0, 0, 0, .5);.second-title {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 1.7em;
+    font-weight: 500;
+    line-height: 1.4em;
+    letter-spacing: -1px;
+    padding: 0 270px;
+}
     width: 26px;
 }
 
@@ -249,6 +256,12 @@ a:hover {
         right: 20px;
         transform: translate(0, -50%);
         -webkit-transform: translateY(-50%);
+    }
+    .col-sm-12 .second-title{
+        width: 725px!important;
+        font-size: 1.7em;
+        padding: 0 15%;
+        margin: 0;
     }
 }
 
