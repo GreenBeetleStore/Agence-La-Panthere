@@ -344,7 +344,7 @@ button {
     position: fixed;
     bottom: 20px;
     right: 20px;
-    opacity: 0;
+    opacity: 0.5;
     z-index: 500;
     transition: all .3s ease-in-out;
 }
@@ -569,7 +569,6 @@ h4 {
     font-weight: 500;
 }
 
-
 .tc-white h2 {
     font-size: 22px;
     font-weight: 500;
@@ -647,11 +646,19 @@ h4 {
         padding: 0 15%;
         margin: 0 auto;
     }
+    .navbar-brand img {
+        width: 225px;
+        height: auto;
+    }
 }
 
 @media only screen and (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
     .b-parallax {
         background-attachment: scroll;
+    }
+    .navbar-brand img {
+        width: 250px;
+        height: auto;
     }
 }
 
@@ -751,6 +758,88 @@ h4 {
     }
     form {
         padding: 5px;
+    }
+    .col-sm-12 .first-title{
+        width: 90%!important;
+        font-size: 1.5em;
+        padding: 0 15%;
+        margin: 0 auto;
+    }
+    .col-sm-12 .second-title{
+        width: 430px!important;
+        font-size: 1.5em;
+        padding: 15px 15%;
+        margin: 0 auto;
+    }
+    .col-sm-4 p {
+        width: 62%;
+        margin: 0 auto;
+        font-size: 15px;
+    }
+    .citation-h2 {
+        font-size: 1.4em;
+        width: 85%;
+        margin: 8px auto;
+    }
+    .citation-p {
+        font-size: 1.3em;
+        width: 85%;
+        margin: 2px auto;
+    }
+    .tc-white h2 {
+        font-size: 1.4em;
+    }
+    #bloc-3-what-i-do .white {
+        font-size: 1.1em;
+        text-align: justify;
+    }
+    #bloc-3-what-i-do .ltc-white {
+        padding: 0 21vw!important;
+    }
+    .portfolio-thumb {
+        margin: 10px auto;
+    }
+    .col-sm-6 {
+        margin: 25px auto;
+    }
+    .col-sm-6 .mg-md {
+        width: 300px;
+        font-size: 1.08em;
+        letter-spacing: normal;
+        margin: 10px auto;
+        padding: 0;
+    }
+    .col-sm-6 p {
+        width: 65%;
+        font-size: 1.08em;
+        margin: 10px auto;
+        padding: 0;
+    }
+    #bloc-4-portfolio .tight-width-whitespace {
+        margin-top: 0;
+        margin-bottom: 0;
+        padding: 0;
+    }
+    .btn-atomic-tangerine {
+        font-size: 1em;
+    }
+    .col-sm-12 p {
+        font-size: 1.3em;
+        text-align: center;
+        margin: 0 auto;
+    }
+    .icon-md {
+        font-size: 30px!important;
+        padding: 0 15px;
+    }
+    .social-media {
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+    }
+    .contact-info {
+        font-size: 11px;
+        padding: 10px 20%;
     }
 }
 
