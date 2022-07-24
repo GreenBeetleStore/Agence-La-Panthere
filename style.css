@@ -9,7 +9,7 @@ body {
 
 a,
 button {
-    transition: all .3s ease-in-out;
+    transition: all 3s ease-in-out;
     outline: none!important;
 }
 
@@ -238,16 +238,10 @@ a:hover {
 }
 
 .navbar-toggle .icon-bar {
-    background-color: rgba(0, 0, 0, .5);.second-title {
-    font-family: 'Work Sans', sans-serif;
-    font-size: 1.7em;
-    font-weight: 500;
-    line-height: 1.4em;
-    letter-spacing: -1px;
-    padding: 0 270px;
-}
+    background-color: rgba(0, 0, 0, .5);
     width: 26px;
 }
+
 
 @media (min-width: 768px) {
     .site-navigation {
@@ -679,10 +673,6 @@ h4 {
         overflow-x: hidden;
         position: relative;
     }
-    /* .bloc {
-        padding-left: env(safe-area-inset-left);
-        padding-right: env(safe-area-inset-right);
-    } */
 }
 
 @media (max-width: 767px) {
