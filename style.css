@@ -794,7 +794,8 @@ h4 {
         text-align: justify;
     }
     #bloc-3-what-i-do .ltc-white {
-        padding: 0 21vw!important;
+        padding: 0 10vw 0 21vw!important;
+        font-size: 0.9em;
     }
     .portfolio-thumb {
         margin: 10px auto;
@@ -812,6 +813,7 @@ h4 {
     .col-sm-6 p {
         width: 65%;
         font-size: 1.08em;
+        text-align: justify;
         margin: 10px auto;
         padding: 0;
     }
@@ -839,6 +841,8 @@ h4 {
     }
     .contact-info {
         font-size: 11px;
+        width: 100%;
+        margin: 0 auto;
         padding: 10px 20%;
     }
 }
@@ -853,4 +857,20 @@ h4 {
         font-size: 1.3em;
         padding: 15px 15%;
         margin: 0 auto;
+    }
+    #bloc-3-what-i-do .ltc-white {
+        padding: 0 10vw 0 18vw!important;
+        font-size: 0.9em;
+        outline: 1px solid greenyellow!important;
+    }
+    .col-sm-6 .mg-md {
+        width: 90%;
+        font-size: 1em;
+        letter-spacing: normal;
+        margin: 10px auto;
+        padding: 0;
+    }
+    .col-sm-6 p {
+        font-size: 1em;
+    }
 }
