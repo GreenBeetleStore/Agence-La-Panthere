@@ -32,8 +32,8 @@ Scénario
 		Voici les points sur lesquels tu devras travailler : 
 
 			· Analyse de l’état actuel de SEO du site fourni. 
-				J’aimerais que tu indiques les parties du site qui ne sont pas optimisées pour le SEO et/ou qui ne sont pas à jour en termes d’accessibilité, et que tu
-				justifies tes choix. Pense à ajouter la bonne pratique à mettre en place pour chaque partie du site qui n’est pas	optimisée, en citant tes sources. 
+				J’aimerais que tu indiques les parties du site qui ne sont pas optimisées pour le SEO et/ou qui ne sont pas à jour en termes d’accessibilité, et que tu	justifies tes choix. 
+				Pense à ajouter la bonne pratique à mettre en place pour chaque partie du site qui n’est pas optimisée, en citant tes sources. 
 				Tu trouveras ci-joint(https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/DW_P4/Mode%CC%80le-audit-SEO.xlsx) un modèle pour réaliser ton analyse.
 				Une fois ce modèle complété, j’aimerais que tu sélectionnes au moins 10 recommandations pour améliorer le site. 
 				Je te laisse cocher ces 10 recommandations choisies dans la colonne “Action recommandée”.
@@ -51,8 +51,7 @@ Scénario
 				
 			· Comparaison des résultats. 
 				La vitesse de chargement des pages du site a un impact sur notre classement dans les résultats de recherche. 
-				Dans tes différentes recommandations, j’aimerais que tu prennes des mesures pour accélérer la vitesse de chargement, et que tu me démontres que cela
-				fonctionne, grâce à des captures d’écran comparatives entre la version du site actuelle et celle que tu auras optimisée, fourni dans un rapport d’optimisation. 
+				Dans tes différentes recommandations, j’aimerais que tu prennes des mesures pour accélérer la vitesse de chargement, et que tu me démontres que cela fonctionne, grâce à des captures d’écran comparatives entre la version du site actuelle et celle que tu auras optimisée, fourni dans un rapport d’optimisation. 
 				Ce rapport devra inclure les comparaisons pour les 10 recommandations.
 				
 		Tu l’imagines, tous ces éléments devront être codés en HTML et CSS. 
@@ -60,12 +59,15 @@ Scénario
 
 		Voilà, je crois que j’ai fait le tour ! N’hésite pas si tu as la moindre question.
 
-		Tu trouveras en pièce jointe (https://course.oc-static.com/projects/DW_P4/DW+P4+sources+site+La+Panthere.zip) une maquette de notre site en son état actuel.
+		Tu trouveras en pièce jointe (https://course.oc-static.com/projects/DW_P4/DW+P4+sources+site+La+Panthere.zip) une maquette de notre site en son état actuel.		
 
 		Sophie
 
 		Sophie Vasseur - Fondatrice de l'agence La Panthère
 		
+· Pour visiter le site au état initiale: https://greenbeetlestore.github.io/Agence-La-Panthere/
+	
+	
 Livrables
 
 	Un fichier au format zip contenant : 
@@ -109,9 +111,13 @@ Ces cours peuvent vous aider dans la réussite de votre projet. Ils ne sont pas 
 		
 RESSOURCES:
 
-	SITE WEB: 
-	Checklist #SEO : 25 bonnes pratiques on-site pour renforcer votre référencement naturel
-	https://www.matthieu-tranvan.fr/referencement-naturel/checklist-seo-25-bonnes-pratiques-on-site-pour-renforcer-votre-referencement-naturel.html
+		SITE WEB: 
+		Checklist #SEO : 25 bonnes pratiques on-site pour renforcer votre référencement naturel
+		https://www.matthieu-tranvan.fr/referencement-naturel/checklist-seo-25-bonnes-pratiques-on-site-pour-renforcer-votre-referencement-naturel.html
 	
 	
 
+Bon travail !
+
+Autor: Francesc Xavier Torta i Fumadó
+NickName: L'Escarabat Verd / Green Beetle.
