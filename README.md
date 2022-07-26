@@ -119,5 +119,5 @@ RESSOURCES:
 
 Bon travail !
 
-Autor: Francesc Xavier Torta i Fumadó
+Autor: Francesc Xavier Torta i Fumadó. 
 NickName: L'Escarabat Verd / Green Beetle.
