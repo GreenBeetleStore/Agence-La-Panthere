@@ -47,7 +47,6 @@ a:hover {
     padding: 20px 50px;
 }
 
-
 .bg-t-edge,
 .bg-repeat {
     -webkit-background-size: auto!important;
@@ -91,7 +90,6 @@ a:hover {
     color: rgba(255, 255, 255, .9);
 }
 
-
 .d-bloc .navbar a,
 .d-bloc .navbar-brand,
 .d-bloc a .icon-md,
@@ -103,7 +101,6 @@ a:hover {
 .d-bloc p a {
     color: rgba(255, 255, 255, .6);
 }
-
 
 .d-bloc .navbar a:hover,
 .d-bloc .navbar-brand:hover,
@@ -121,16 +118,13 @@ a:hover {
     background: rgba(255, 255, 255, 1);
 }
 
-
 .l-bloc {
     color: rgba(0, 0, 0, .5);
 }
 
-
 .l-bloc button:hover {
     color: rgba(0, 0, 0, .7);
 }
-
 
 .l-bloc .navbar a,
 .l-bloc .navbar-brand,
@@ -143,7 +137,6 @@ a:hover {
 .l-bloc p a {
     color: rgba(0, 0, 0, .6);
 }
-
 
 .l-bloc .navbar a:hover,
 .l-bloc .navbar-brand:hover,
@@ -241,7 +234,6 @@ a:hover {
     background-color: rgba(0, 0, 0, .5);
     width: 26px;
 }
-
 
 @media (min-width: 768px) {
     .site-navigation {
@@ -726,12 +718,10 @@ h4 {
     .navbar-brand img {
         max-height: 50px;
     }
-
     .bloc {
         padding-left: 0;
         padding-right: 0;
     }
-    
     .bloc-lg {
         padding: 40px 0;
     }
@@ -879,5 +869,4 @@ h4 {
         margin: 0 auto;
         font-size: 12px;
     }
-    
 }
