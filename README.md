@@ -1,7 +1,24 @@
-# Agence-La-Panthere_v2
+# Agence-La-Panthere . Entreprise de WebDesign à Lyon.
 https://greenbeetlestore.github.io/Agence-La-Panthere_v2/
 
 P4-Optimisez un site web existant. 
+
+DESCRIPTION:
+
+	J'ai été chargé d'améliorer le site Web en termes de : Performance, Accessibilité, Bonnes Pratiques et Référencement(SEO).
+	Le site Web est conçu avec HTML, CSS et JavaScript.
+	Le site internet initial reçu de notre client peut être visité à cette adresse : https://greenbeetlestore.github.io/Agence-La-Panthere/
+	
+TECHNOLOGIES:
+
+	Pour travailler avec le code, j'ai utilisé VSCode et GitHub.
+	Pour réaliser les audits, j'ai principalement utilisé ces outils :
+		· Lighthouse; https://web.dev/measure/ 
+		· WAVE Web Accessibility Evaluation Tool; https://wave.webaim.org/
+
+INSTRUCTIONS:
+	
+	Les consignes à suivre pour le bon fonctionnement du site sont décrites par notre client ci-dessous :
 
 Scénario
 
