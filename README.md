@@ -1,9 +1,9 @@
-# Agence-La-Panthere . Entreprise de WebDesign à Lyon.
+# Agence La Panthere . Entreprise de WebDesign à Lyon.
 https://greenbeetlestore.github.io/Agence-La-Panthere_v2/
 
 P4-Optimisez un site web existant. 
 
-DESCRIPTION:
+<h2> DESCRIPTION: </h2>
 
 	J'ai été chargé d'améliorer le site Web en termes de : Performance, Accessibilité, Bonnes Pratiques et Référencement(SEO).
 	Le site Web est conçu avec HTML, CSS et JavaScript.
