@@ -1,3 +1,5 @@
+<img src="./images/Booki@3x.png" alt="logo La Panthére">
+
 # Agence La Panthere . Entreprise de WebDesign à Lyon.
 https://greenbeetlestore.github.io/Agence-La-Panthere_v2/
 
@@ -136,5 +138,4 @@ RESSOURCES:
 
 Bon travail !
 
-Autor: Francesc Xavier Torta i Fumadó. 
-NickName: L'Escarabat Verd / Green Beetle.
+Auteur: Francesc Xavier Torta i Fumadó. Surnom: Green Beetle.
