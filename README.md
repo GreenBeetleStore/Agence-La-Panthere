@@ -6,12 +6,9 @@
 
 # P4-Optimisez un site web existant. 
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 ### Voir la <a href="https://docs.google.com/presentation/d/1wT6qrzUYxrXoy2jFYIfiUBdJOQgYPccenjYoB7WUNis/edit?usp=sharing"> Présentation du projet ici 👈 </a>
 =======
 ### Voir la <a href="https://docs.google.com/presentation/d/1wT6qrzUYxrXoy2jFYIfiUBdJOQgYPccenjYoB7WUNis/edit?usp=sharing"> Présentation du projet ici</a>
->>>>>>> 62480948d91468dca33c91227eb98b75acac0345
 
 <img src="./img/Page.png" alt="Maquette La Panthére">
 
@@ -33,7 +30,7 @@ GitHub.
 
 ### · Audits :
 
-<a href="https://web.dev/measure/">Lighthouse</a>
+<a href="https://web.dev/measure/">Lighthouse by web.dev</a>
 	
 <a href="https://wave.webaim.org/">WAVE Web Accessibility Evaluation Tool</a>
 
