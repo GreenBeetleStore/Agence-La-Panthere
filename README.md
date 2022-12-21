@@ -1,9 +1,12 @@
-<img src="./images/Booki@3x.png" alt="logo La Panthére">
-
 # Agence La Panthere . Entreprise de WebDesign à Lyon.
-https://greenbeetlestore.github.io/Agence-La-Panthere_v2/
 
-P4-Optimisez un site web existant. 
+<img src="./img/LogoColor.png" alt="logo La Panthére">
+
+### Visitez le projet réalisé <a href="https://greenbeetlestore.github.io/Agence-La-Panthere/">ici : https://greenbeetlestore.github.io/Agence-La-Panthere/</a>
+
+# P4-Optimisez un site web existant. 
+
+<img src="./img/Page.png" alt="Maquette La Panthére">
 
 <h2> DESCRIPTION: </h2>
 
