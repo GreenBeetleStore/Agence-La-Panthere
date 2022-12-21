@@ -7,38 +7,55 @@
 # P4-Optimisez un site web existant. 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ### Voir la <a href="https://docs.google.com/presentation/d/1wT6qrzUYxrXoy2jFYIfiUBdJOQgYPccenjYoB7WUNis/edit?usp=sharing"> Présentation du projet ici 👈 </a>
+=======
+### Voir la <a href="https://docs.google.com/presentation/d/1wT6qrzUYxrXoy2jFYIfiUBdJOQgYPccenjYoB7WUNis/edit?usp=sharing"> Présentation du projet ici</a>
+>>>>>>> 62480948d91468dca33c91227eb98b75acac0345
 
 <img src="./img/Page.png" alt="Maquette La Panthére">
 
-<h2> DESCRIPTION: </h2>
+## DESCRIPTION:
 
-	J'ai été chargé d'améliorer le site Web en termes de : Performance, Accessibilité, Bonnes Pratiques et Référencement(SEO).
-	Le site Web est conçu avec HTML, CSS et JavaScript.
-	Le site internet initial reçu de notre client peut être visité à cette adresse : https://greenbeetlestore.github.io/Agence-La-Panthere/
+J'ai été chargé d'améliorer le site Web en termes de : Performance, Accessibilité, Bonnes Pratiques et Référencement(SEO).
+
+Le site Web est conçu avec HTML, CSS et JavaScript.
+
+La liste des implémentations à effectuer se trouve à <a href"https://developer.mozilla.org/fr/docs/Web/Accessibility/Mobile_accessibility_checklist">cette adresse</a>.
 	
-TECHNOLOGIES:
+## TECHNOLOGIES:
 
-	Pour travailler avec le code, j'ai utilisé VSCode et GitHub.
-	Pour réaliser les audits, j'ai principalement utilisé ces outils :
-		· Lighthouse; https://web.dev/measure/ 
-		· WAVE Web Accessibility Evaluation Tool; https://wave.webaim.org/
+### · Code : 
 
-INSTRUCTIONS:
+VSCode
+
+GitHub.
+
+### · Audits :
+
+<a href="https://web.dev/measure/">Lighthouse</a>
 	
-	Les consignes à suivre pour le bon fonctionnement du site sont décrites par notre client ci-dessous :
+<a href="https://wave.webaim.org/">WAVE Web Accessibility Evaluation Tool</a>
 
-Scénario
+## INSTRUCTIONS:
+	
+· Les consignes à suivre pour le bon fonctionnement du site sont décrites par notre client ci-dessous :
 
-	Vous travaillez pour l'agence La Panthère, une grande agence de web design basée à Lyon. 
-	L’activité de l’entreprise a bien démarré mais aujourd’hui, elle est en perte de vitesse. Eh oui, la concurrence est rude. 
-	La fondatrice de l’entreprise, Sophie, cherche une solution pour faire repartir l’activité.
-	En tapant “Entreprise web design Lyon” sur Internet, elle s’aperçoit que le site de l’agence apparaît seulement en deuxième page des moteurs de recherche. 
-	Par chance, un de vos collègues, Martin, lui a dit que vous étiez un spécialiste en référencement.
-	...
-	![image](https://user-images.githubusercontent.com/97419459/180998128-36d3ed21-4718-4b5b-a0b3-bf09eeb1ef91.png)
+### Scénario
 
-	Sophie vous invite dans une réunion pour préciser le périmètre de la mission. Voici le compte-rendu de cette réunion:
+Vous travaillez pour l'agence La Panthère, une grande agence de web design basée à Lyon. 
+
+L’activité de l’entreprise a bien démarré mais aujourd’hui, elle est en perte de vitesse. Eh oui, la concurrence est rude. 
+
+La fondatrice de l’entreprise, Sophie, cherche une solution pour faire repartir l’activité.
+
+En tapant “Entreprise web design Lyon” sur Internet, elle s’aperçoit que le site de l’agence apparaît seulement en deuxième page des moteurs de recherche. 
+
+Par chance, un de vos collègues, Martin, lui a dit que vous étiez un spécialiste en référencement.
+
+===================================================================================
+
+· Sophie vous invite dans une réunion pour préciser le périmètre de la mission. Voici le compte-rendu de cette réunion:
 	
 	Compte-rendu - réunion de lancement “Amélioration du référencement"
 
@@ -90,7 +107,6 @@ Scénario
 
 		Sophie Vasseur - Fondatrice de l'agence La Panthère
 		
-· Pour visiter le site au état initiale: https://greenbeetlestore.github.io/Agence-La-Panthere/
 	
 	
 Livrables
