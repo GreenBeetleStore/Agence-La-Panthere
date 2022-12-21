@@ -16,7 +16,7 @@ J'ai été chargé d'améliorer le site Web en termes de : Performance, Accessib
 
 Le site Web est conçu avec HTML, CSS et JavaScript.
 
-Le site internet initial reçu de notre client peut être visité à cette adresse : https://greenbeetlestore.github.io/Agence-La-Panthere/
+La liste des implémentations à effectuer se trouve à <a href"https://developer.mozilla.org/fr/docs/Web/Accessibility/Mobile_accessibility_checklist">cette adresse</a>.
 	
 ## TECHNOLOGIES:
 
