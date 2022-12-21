@@ -20,13 +20,17 @@ Le site internet initial reçu de notre client peut être visité à cette adres
 	
 ## TECHNOLOGIES:
 
-· Pour coder : VSCode et GitHub.
+· Code : 
 
-· Pour auditer :
+VSCode
 
-	· <a href="https://web.dev/measure/">Lighthouse</a>
+GitHub.
+
+· Audits :
+
+<a href="https://web.dev/measure/">Lighthouse</a>
 	
-	· <a href="https://wave.webaim.org/">WAVE Web Accessibility Evaluation Tool</a>
+<a href="https://wave.webaim.org/">WAVE Web Accessibility Evaluation Tool</a>
 
 ## INSTRUCTIONS:
 	
