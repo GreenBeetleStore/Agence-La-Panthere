@@ -1,12 +1,12 @@
-# Agence La Panthere . Entreprise de WebDesign à Lyon.
+# Agence La Panthère . Entreprise de WebDesign à Lyon.
 
-<img src="./img/LogoColor.png" alt="logo La Panthére">
+<img src="./img/LogoColor.png" alt="logo La Panthère">
 
 ### Visitez le projet réalisé <a href="https://greenbeetlestore.github.io/Agence-La-Panthere/">ici : https://greenbeetlestore.github.io/Agence-La-Panthere/</a>
 
 # P4-Optimisez un site web existant. 
 
-<img src="./img/Page.png" alt="Maquette La Panthére">
+<img src="./img/Page.png" alt="Maquette La Panthère">
 
 <h2> DESCRIPTION: </h2>
 
