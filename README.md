@@ -6,6 +6,8 @@
 
 # P4-Optimisez un site web existant. 
 
+### Voir la <a href="https://docs.google.com/presentation/d/1wT6qrzUYxrXoy2jFYIfiUBdJOQgYPccenjYoB7WUNis/edit?usp=sharing"> Présentation du projet ici</a>
+
 <img src="./img/Page.png" alt="Maquette La Panthére">
 
 <h2> DESCRIPTION: </h2>
