@@ -102,7 +102,6 @@ Par chance, un de vos collègues, Martin, lui a dit que vous étiez un spéciali
 
 		Sophie Vasseur - Fondatrice de l'agence La Panthère
 		
-· Pour visiter le site au état initiale: https://greenbeetlestore.github.io/Agence-La-Panthere/
 	
 	
 Livrables
