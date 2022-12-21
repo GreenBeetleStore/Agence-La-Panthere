@@ -20,13 +20,13 @@ Le site internet initial reçu de notre client peut être visité à cette adres
 	
 ## TECHNOLOGIES:
 
-· Code : 
+### · Code : 
 
 VSCode
 
 GitHub.
 
-· Audits :
+### · Audits :
 
 <a href="https://web.dev/measure/">Lighthouse</a>
 	
